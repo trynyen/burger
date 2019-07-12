@@ -1,5 +1,5 @@
 html {
-    background: url("https://wallpapercave.com/wp/FuFhN86.jpg") center center;
+    background: url("https://hdwallsource.com/img/2016/7/spongebob-squarepants-wallpaper-49597-51273-hd-wallpapers.jpg") center center;
   }
   
   body {
@@ -34,12 +34,12 @@ html {
     width: 100%;
     margin: 10px;
     padding: 10px;
-    background-color: #61cde585;
+    background-color: #a1e0f9;
     border: none;
   }
   
   .burgerAvailable:hover {
-    background-color:#61cde5cf;
+    background-color:#6ccff6d9;
   }
   
   .burgerEaten {
@@ -75,12 +75,12 @@ html {
     width: 100%;
     margin: 0;
     padding: 10px;
-    background-color: #c46634cc;
+    background-color: #fff270cc;;
     border: none;
   }
   
   .addBurgerButton:active {
-   background-color: #c46634cc;
+   background-color: #fff270;
   }
   
 
